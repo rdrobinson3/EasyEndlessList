@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyEndlessList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="finishedLoading">Finished Loading</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="noDataFound">No Data Returned</string>
+
+</resources>
